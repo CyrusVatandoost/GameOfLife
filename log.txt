@@ -1,0 +1,15 @@
+John Conway's Game of Life
+
+v0.0.1
+- added Reader
+v0.1.0
+- added keyboard shortcuts
+- added "spacebar" to pause
+- added "n" to next step
+- added "c" to clear map
+- added "r" to create random map
+- updated Display to remove the excess screen problem
+v0.1.1
+- added Controller
+- updated Controller by moving frame from Model to Controller
+- added menus
